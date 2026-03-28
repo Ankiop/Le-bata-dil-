@@ -17,12 +17,12 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-BOT_TOKEN = "token"
+BOT_TOKEN = "8665213647:AAE1jdRhZ2h4zWpUpKbqN0CXvjUXoSb5cEI"
 YML_FILE_PATH = ".github/workflows/main.yml"
-BINARY_FILE_NAME = "neo"
+BINARY_FILE_NAME = "Ankit"
 BINARY_STORAGE_PATH = "stored_binary.bin"
-ADMIN_IDS = [owner, admin]
-OWNER_USERNAME = "@Rytce"
+ADMIN_IDS = [ 6245558376 ]
+OWNER_USERNAME = "@RAVANISHOT"
 
 # ==================== BOLD TEXT CONVERTER ====================
 def bold(text):
